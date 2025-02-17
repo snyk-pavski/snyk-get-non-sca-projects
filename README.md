@@ -1,4 +1,4 @@
-# Get Snyk CLI Projects 
+# Get Snyk non-SCA Projects 
 
 Lists all non-SCA Snyk Projects across multiple Snyk Organisations in a Group.
 
